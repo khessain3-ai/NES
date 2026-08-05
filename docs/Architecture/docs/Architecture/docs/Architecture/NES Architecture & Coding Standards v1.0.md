@@ -33,3 +33,4 @@ Each class has one responsibility.
 ## 5. Rich Domain Model
 
 The Domain contains both data and behavior.
+Move Architecture Standards document to correct folder
