@@ -254,3 +254,82 @@ NES protects data through:
 - Secure storage
 
 ---
+
+
+
+---
+
+# 6. Deployment Architecture
+
+NES is designed to support flexible deployment environments.
+
+## Deployment Components
+
+The system deployment consists of:
+
+### Client Applications
+
+Includes:
+
+- Web application
+- Mobile application
+
+Responsible for:
+
+- User interaction
+- Data presentation
+- Sending requests to the backend
+
+---
+
+### Application Server
+
+Responsible for:
+
+- Running business workflows
+- Processing API requests
+- Managing authentication
+- Executing application services
+
+---
+
+### Database Server
+
+Responsible for:
+
+- Storing system data
+- Maintaining relationships
+- Data consistency
+- Backup and recovery
+
+---
+
+### File Storage
+
+Responsible for:
+
+- Patient documents
+- Visit attachments
+- Images
+- Reports
+
+---
+
+## Future Scalability
+
+The architecture supports future expansion through:
+
+- Cloud deployment
+- Additional mobile platforms
+- Integration with external systems
+- Advanced reporting services
+
+---
+
+# Document Conclusion
+
+This architecture provides NES with a strong foundation for a secure, scalable, and maintainable healthcare nutrition management system.
+
+The architecture will guide the implementation phases and ensure consistency between business requirements and technical solutions.
+
+---
