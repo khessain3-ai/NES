@@ -89,3 +89,56 @@ Includes:
 - API interfaces
 
 ---
+
+
+
+---
+
+# 3. System Components
+
+NES consists of the following main components:
+
+## Patient Management Component
+
+Responsible for:
+
+- Patient registration
+- Patient profile management
+- Medical information tracking
+- Previous results history
+
+---
+
+## Nutrition Management Component
+
+Responsible for:
+
+- Nutrition plans
+- Meal scheduling
+- Calories calculation
+- Food preferences and restrictions
+
+---
+
+## Visit Management Component
+
+Responsible for:
+
+- Visit scheduling
+- Progress tracking
+- Target management
+- Clinical notes
+
+---
+
+## Notification Component
+
+Responsible for:
+
+- Appointment reminders
+- Follow-up notifications
+- System alerts
+
+---
+
+
