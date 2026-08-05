@@ -142,3 +142,43 @@ Responsible for:
 ---
 
 
+---
+
+# 4. Communication Flow
+
+NES follows a clear communication flow between system layers.
+
+## User Request Flow
+
+The communication process:
+
+1. User interacts with the Presentation Layer.
+2. Request is sent to the Application Layer.
+3. Application Layer executes the required use case.
+4. Domain Layer applies business rules.
+5. Infrastructure Layer handles data persistence.
+6. Response is returned back to the user.
+
+---
+
+## Data Communication
+
+The system uses:
+
+- REST API communication
+- Secure authentication tokens
+- Structured data transfer
+- Validation before processing
+
+---
+
+## Internal Communication Principles
+
+The system follows:
+
+- Loose coupling
+- Clear responsibilities
+- Secure data exchange
+- Maintainable architecture
+
+---
