@@ -182,3 +182,75 @@ The system follows:
 - Maintainable architecture
 
 ---
+
+
+---
+
+# 5. Data Flow
+
+NES manages data movement through a controlled and secure flow.
+
+## Data Processing Flow
+
+The data lifecycle follows these steps:
+
+1. User enters information through the Presentation Layer.
+2. Application Layer validates and processes the request.
+3. Domain Layer applies business rules.
+4. Infrastructure Layer stores or retrieves data.
+5. Results are returned to the user interface.
+
+---
+
+## Main Data Areas
+
+The system manages the following data domains:
+
+### Patient Data
+
+Includes:
+
+- Personal information
+- Medical history
+- Diseases
+- Allergies
+- Food restrictions
+- Preferences
+
+---
+
+### Nutrition Data
+
+Includes:
+
+- Nutrition plans
+- Meals
+- Calories
+- Meal schedules
+- Food recommendations
+
+---
+
+### Clinical Data
+
+Includes:
+
+- Visits
+- Measurements
+- Laboratory results
+- Clinical notes
+- Progress tracking
+
+---
+
+## Data Security Principles
+
+NES protects data through:
+
+- Authentication
+- Authorization
+- Role Based Access Control (RBAC)
+- Audit tracking
+- Secure storage
+
+---
