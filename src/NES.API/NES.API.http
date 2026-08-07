@@ -1,0 +1,6 @@
+@NES.API_HostAddress = http://localhost:5276
+
+GET {{NES.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

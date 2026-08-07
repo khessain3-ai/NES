@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NES.API/NES.API.csproj" />
+    <Project Path="src/NES.Application/NES.Application.csproj" />
+    <Project Path="src/NES.Domain/NES.Domain.csproj" />
+    <Project Path="src/NES.Infrastructure/NES.Infrastructure.csproj" />
+  </Folder>
+</Solution>

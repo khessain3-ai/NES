@@ -1,0 +1,12 @@
+C:\Users\yuyu\NES\NES\src\NES.Domain\bin\Debug\net10.0\NES.Domain.deps.json
+C:\Users\yuyu\NES\NES\src\NES.Domain\bin\Debug\net10.0\NES.Domain.dll
+C:\Users\yuyu\NES\NES\src\NES.Domain\bin\Debug\net10.0\NES.Domain.pdb
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\NES.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\NES.Domain.AssemblyInfoInputs.cache
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\NES.Domain.AssemblyInfo.cs
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\NES.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\NES.Domain.sourcelink.json
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\NES.Domain.dll
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\refint\NES.Domain.dll
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\NES.Domain.pdb
+C:\Users\yuyu\NES\NES\src\NES.Domain\obj\Debug\net10.0\ref\NES.Domain.dll
